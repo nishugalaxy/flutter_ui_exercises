@@ -1,6 +1,6 @@
-# flutterapp
+# ch2_my_counter
 
-A first Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
